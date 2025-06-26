@@ -1,0 +1,339 @@
+﻿area;nombre;seccion;conocimientos;requerido;disponible;brecha
+control y riesgos;francisco andres quiroga leal;medular;medicion de tiempos en los procesos;2;3;1
+control y riesgos;francisco andres quiroga leal;medular;analisis de metodos en el desarrollo de actividades;3;3;0
+control y riesgos;francisco andres quiroga leal;medular;diseno de plantas;2;1;-1
+control y riesgos;francisco andres quiroga leal;medular;analisis financiero para la toma de decisiones;3;2;-1
+control y riesgos;francisco andres quiroga leal;medular;gestion de la cadena de valor;3;2;-1
+control y riesgos;francisco andres quiroga leal;medular;gestion para la evaluacion de proyectos;1;3;2
+control y riesgos;francisco andres quiroga leal;gerencial;automatizacion de procesos;1;3;2
+control y riesgos;francisco andres quiroga leal;gerencial;analisis de riesgos y gestion del cambio;2;3;1
+control y riesgos;francisco andres quiroga leal;gerencial;evaluacion financiera de proyectos (van, tir, roi);1;3;2
+control y riesgos;francisco andres quiroga leal;gerencial;planificacion de la capacidad y programacion de la produccion;2;1;-1
+control y riesgos;francisco andres quiroga leal;gerencial;gestion de la productividad ;3;1;-2
+control y riesgos;francisco andres quiroga leal;tic;herramientas ofimaticas;2;3;1
+control y riesgos;francisco andres quiroga leal;organizacional;mapeo y mejora de procesos;1;3;2
+control y riesgos;francisco andres quiroga leal;organizacional;toma de decisiones para la mitigacion de cuellos de botella ;2;3;1
+control y riesgos;francisco andres quiroga leal;organizacional;analisis y evaluacion de desempeno ;2;1;-1
+control y riesgos;francisco andres quiroga leal;relacional;contraloria - requisitos para el reporte de deudores morosos;2;3;1
+control y riesgos;francisco andres quiroga leal;experto;manejo y estudio del tiempo;1;3;2
+control y riesgos;francisco andres quiroga leal;experto;evaluacion de metodologias de trabajo;1;3;2
+control y riesgos;francisco andres quiroga leal;experto;analisis financiero para la toma de decisiones;1;3;2
+control y riesgos;francisco andres quiroga leal;experto;evaluacion de procesos ;1;3;2
+control y riesgos;hector manuel patino hurtado;medular;analisis de riesgos (inherentes y riesgos residuales) y evaluacion de controles tanto estrategicos como operativos;2;3;1
+control y riesgos;hector manuel patino hurtado;medular;gestion con la banca (recepcion y revision de archivos multicash, reuniones con la banca;1;3;2
+control y riesgos;hector manuel patino hurtado;medular;indicadores de gestion;3;3;0
+control y riesgos;hector manuel patino hurtado;medular;atencion a entes de control y construccion de planes de mejoramiento;3;3;0
+control y riesgos;hector manuel patino hurtado;medular;revision y actualizacion de procesos, procedimientos, instructivos, documento especificos.;3;3;0
+control y riesgos;hector manuel patino hurtado;medular;arqueos a los fondos fijos reembolsables del distrito de medellin, arqueos a la tesoreria.;2;3;1
+control y riesgos;hector manuel patino hurtado;gerencial;desarrollo gerencial;3;3;0
+control y riesgos;hector manuel patino hurtado;gerencial;seguimiento a contratos;2;3;1
+control y riesgos;hector manuel patino hurtado;gerencial;control interno;3;3;0
+control y riesgos;hector manuel patino hurtado;gerencial;evaluacion de la gestion de compras;2;3;1
+control y riesgos;hector manuel patino hurtado;tic;word;3;1;-2
+control y riesgos;hector manuel patino hurtado;tic;excel;3;3;0
+control y riesgos;hector manuel patino hurtado;organizacional;procesos;3;3;0
+control y riesgos;hector manuel patino hurtado;organizacional;sistema de gestion de calidad;2;3;1
+control y riesgos;hector manuel patino hurtado;organizacional;atencion al cliente;2;3;1
+control y riesgos;hector manuel patino hurtado;organizacional;planificacion y gestion;2;3;1
+control y riesgos;hector manuel patino hurtado;relacional;relacion y reportes con los entes de control;2;3;1
+control y riesgos;hector manuel patino hurtado;relacional;relacionamiento con la banca (acuerdos de nivel de servicio);2;3;1
+inversiones;jorge escobar;medular;analisis financiero;3;4;1
+inversiones;jorge escobar;medular;instrumentos financieros;3;3;0
+inversiones;jorge escobar;medular;matematicas financieras;2;4;2
+inversiones;jorge escobar;medular;evaluacion de proyectos de inversion;3;3;0
+inversiones;jorge escobar;medular;programacion (data and financial analysis);2;3;1
+inversiones;jorge escobar;medular;presupuestacion y seguimiento;2;4;2
+inversiones;jorge escobar;medular;valoracion de proyectos;1;3;2
+inversiones;jorge escobar;medular;proyecciones financieras;2;4;2
+inversiones;jorge escobar;medular;gestion de costos;2;3;1
+inversiones;jorge escobar;medular;entorno economicos y mercados;2;4;2
+inversiones;jorge escobar;gerencial;planeacion estategica;3;4;1
+inversiones;jorge escobar;gerencial;analisis de datos para la toma de decisiones;3;4;1
+inversiones;jorge escobar;gerencial;gestion financiera;2;4;2
+inversiones;jorge escobar;gerencial;comunicacion efectiva;2;4;2
+inversiones;jorge escobar;tic;python;2;4;2
+inversiones;jorge escobar;tic;r;1;2;1
+inversiones;jorge escobar;tic;excel;3;4;1
+inversiones;jorge escobar;tic;word;3;3;0
+inversiones;jorge escobar;tic;onedrive;3;2;-1
+inversiones;jorge escobar;tic;google drive;3;2;-1
+inversiones;jorge escobar;tic;teams;3;2;-1
+inversiones;jorge escobar;tic;powerpoint;3;3;0
+inversiones;jorge escobar;tic;ia;3;3;0
+inversiones;jorge escobar;tic;outlook;3;2;-1
+inversiones;jorge escobar;tic;sql;3;3;0
+inversiones;jorge escobar;organizacional;negociacion;3;5;2
+inversiones;jorge escobar;organizacional;liderazgo;2;4;2
+inversiones;jorge escobar;organizacional;capacidad de analisis;3;4;1
+inversiones;jorge escobar;organizacional;capacidad de relacionamiento;3;4;1
+inversiones;jorge escobar;organizacional;recursividad;3;4;1
+inversiones;jorge escobar;relacional;leyes relacionadas con la admin de excedentes de liquidez;2;5;3
+inversiones;jorge escobar;experto;interpretacion y analisis de datos financieros;1;4;3
+control y riesgos;maria lopez;medular;administracion de empresas;2;1;-1
+control y riesgos;maria lopez;medular;contaduria publica;2;1;-1
+control y riesgos;maria lopez;medular;gerencia de proyectos;2;3;1
+control y riesgos;maria lopez;gerencial;gestion de proyectos;2;3;1
+control y riesgos;maria lopez;tic;word;3;3;0
+control y riesgos;maria lopez;tic;excel;2;3;1
+control y riesgos;maria lopez;tic;teams;2;3;1
+control y riesgos;maria lopez;tic;google drive;2;1;-1
+control y riesgos;maria lopez;organizacional;responsabilidad social y corporativa;3;2;-1
+control y riesgos;maria lopez;organizacional;conocimiento de la cultura organizacional;3;3;0
+control y riesgos;maria lopez;experto;experiencia como tesorera en ie;1;1;0
+control y riesgos;marta lorena munoz alvarez;medular;conocimiento en normas relacionadas con el proceso de cobro coactivo.;3;3;0
+control y riesgos;marta lorena munoz alvarez;medular;clasificacion y priorizacion de deudores segun riesgo o etapa del proceso de cobranzas.;3;3;0
+control y riesgos;marta lorena munoz alvarez;medular;control y riesgos: identificar, evaluar, mitigar y monitorear los riesgos que pueden afectar a una organizacion, asi como establecer mecanismos de control para prevenir errores, fraudes o incumplimientos.;3;3;0
+control y riesgos;marta lorena munoz alvarez;medular;reportes, retiro y clasificacion de los deudores morosos del estado.;4;3;-1
+control y riesgos;marta lorena munoz alvarez;medular;evaluacion y formulacion de proyectos ;3;3;0
+control y riesgos;marta lorena munoz alvarez;medular;seguimiento a rendimientos financieros.;4;3;-1
+control y riesgos;marta lorena munoz alvarez;gerencial;evaluacion y formulacion de proyectos ;3;3;0
+control y riesgos;marta lorena munoz alvarez;gerencial;evaluacion de riesgos crediticios.;4;1;-3
+control y riesgos;marta lorena munoz alvarez;gerencial;conocimiento de cuentas, creditos, seguros, fondos de inversion, etc.;4;1;-3
+control y riesgos;marta lorena munoz alvarez;gerencial;asesoria sobre productos segun el perfil del cliente. conocimientos en sistema de administracion de riesgo de lavado de activos y financiacion del terrorismo (sarlaft).;3;3;0
+control y riesgos;marta lorena munoz alvarez;gerencial;manejo de sistemas bancarios y plataformas financieras.;4;3;-1
+control y riesgos;marta lorena munoz alvarez;gerencial;procesos de apertura de cuentas, transferencias, pagos y conciliaciones.;3;3;0
+control y riesgos;marta lorena munoz alvarez;gerencial;evaluacion de riesgos y oportunidades financieras.;3;3;0
+control y riesgos;marta lorena munoz alvarez;tic;microsoft office (word, excel, powerpoint);3;3;0
+control y riesgos;marta lorena munoz alvarez;tic;access;2;1;-1
+control y riesgos;marta lorena munoz alvarez;tic;power bi ;3;3;0
+control y riesgos;marta lorena munoz alvarez;tic;sap ;4;3;-1
+control y riesgos;marta lorena munoz alvarez;organizacional;presentaciones efectivas y manejo comunicacional ;3;3;0
+control y riesgos;marta lorena munoz alvarez;organizacional;gestion del cambio;3;3;0
+control y riesgos;marta lorena munoz alvarez;organizacional;administracion de recursos humanos ;3;1;-2
+control y riesgos;marta lorena munoz alvarez;organizacional;orientacion a resultados.;4;3;-1
+control y riesgos;marta lorena munoz alvarez;organizacional;gestion del tiempo;4;3;-1
+control y riesgos;marta lorena munoz alvarez;organizacional;planificacion y organizacion.;4;3;-1
+control y riesgos;marysol valladares;medular;analisis de riesgos ;3;3;0
+control y riesgos;marysol valladares;medular;identificacion e implementacion de controles y planes de accion ;3;3;0
+control y riesgos;marysol valladares;medular;gestion de proyectos ;2;3;1
+control y riesgos;marysol valladares;gerencial;especialista en operaciones y logistica;4;3;-1
+control y riesgos;marysol valladares;gerencial;innovacion en el sector publico;3;3;0
+control y riesgos;marysol valladares;gerencial;logistica comercial ;3;1;-2
+control y riesgos;marysol valladares;tic;herramientas ofimaticas;3;3;0
+control y riesgos;marysol valladares;tic;power bi;2;3;1
+control y riesgos;marysol valladares;tic;herramientas de diagramacion ;3;2;-1
+control y riesgos;marysol valladares;tic;sap;3;3;0
+control y riesgos;marysol valladares;tic;visor 360;2;3;1
+control y riesgos;marysol valladares;tic;mercurio;2;3;1
+control y riesgos;marysol valladares;organizacional;mejoramiento de procesos;3;3;0
+control y riesgos;marysol valladares;organizacional;metodologias agiles;3;3;0
+control y riesgos;marysol valladares;relacional;iso 27001;2;3;1
+control y riesgos;marysol valladares;relacional;innovacion en el sector publico;3;3;0
+control y riesgos;marysol valladares;experto;diagramacion de procesos;1;3;2
+control y riesgos;marysol valladares;experto;analisis de riesgos ;1;3;2
+inversiones;miguel piedrahita;medular;tributacion;3;3;0
+inversiones;miguel piedrahita;medular;liquidacion de impuestos;4;3;-1
+inversiones;miguel piedrahita;medular;presupuesto;4;4;0
+inversiones;miguel piedrahita;medular;reportes financieros (cuipo, cierre);3;3;0
+inversiones;miguel piedrahita;medular;modelacion financiera;4;4;0
+inversiones;miguel piedrahita;medular;analisis de impacto;4;4;0
+inversiones;miguel piedrahita;medular;analisis de inversion;4;4;0
+inversiones;miguel piedrahita;medular;inversion en acciones;4;2;-2
+inversiones;miguel piedrahita;medular;negociacion de divisas;3;4;1
+inversiones;miguel piedrahita;medular;tablas de amortizacion;5;4;-1
+inversiones;miguel piedrahita;medular;valoracion de inversiones;4;4;0
+inversiones;miguel piedrahita;gerencial;gestion de procesos;3;5;2
+inversiones;miguel piedrahita;gerencial;gestion de emociones en ambientes complejos;3;5;2
+inversiones;miguel piedrahita;tic;excel;4;4;0
+inversiones;miguel piedrahita;tic;python;3;4;1
+inversiones;miguel piedrahita;tic;power bi;3;4;1
+inversiones;miguel piedrahita;tic;qgis;3;2;-1
+inversiones;miguel piedrahita;tic;rstudio;3;2;-1
+inversiones;miguel piedrahita;tic;r;3;2;-1
+inversiones;miguel piedrahita;tic;programacion web (css, javascript, html);2;2;0
+inversiones;miguel piedrahita;organizacional;documentacion;3;4;1
+inversiones;miguel piedrahita;organizacional;liderazgo;4;4;0
+inversiones;miguel piedrahita;organizacional;gestion de equipos;4;5;1
+inversiones;miguel piedrahita;organizacional;analisis de riesgos;3;4;1
+inversiones;miguel piedrahita;organizacional;gestion de automatizaciones;3;4;1
+inversiones;miguel piedrahita;relacional;normatividad tributaria;3;3;0
+inversiones;miguel piedrahita;relacional;normatividad presupuestal;3;3;0
+inversiones;miguel piedrahita;relacional;normatividad de administracion de excedentes;5;5;0
+inversiones;miguel piedrahita;relacional;normatividad de rentas no tributarias;3;3;0
+inversiones;miguel piedrahita;relacional;norma de reporteria financiera;3;3;0
+inversiones;miguel piedrahita;experto;analisis financiero;1;4;3
+inversiones;miguel piedrahita;experto;gestion de finanzas personales;1;5;4
+control y riesgos;karoll aguilar builes;medular;analisis de costos y presupuestos;1;3;2
+control y riesgos;karoll aguilar builes;medular;contaduria basica;2;2;0
+control y riesgos;karoll aguilar builes;gerencial;evaluacion de saldos y movimientos;2;2;0
+control y riesgos;karoll aguilar builes;tic;word;2;3;1
+control y riesgos;karoll aguilar builes;tic;excel;2;3;1
+control y riesgos;karoll aguilar builes;tic;teams;2;3;1
+control y riesgos;karoll aguilar builes;tic;google drive;2;1;-1
+control y riesgos;karoll aguilar builes;tic;powerpoint;2;3;1
+control y riesgos;karoll aguilar builes;tic;sap;2;3;1
+control y riesgos;karoll aguilar builes;tic;herramientas ia;2;3;1
+control y riesgos;karoll aguilar builes;tic;mercurio;2;3;1
+control y riesgos;karoll aguilar builes;organizacional;responsabilidad social y corporativa;1;3;2
+control y riesgos;karoll aguilar builes;organizacional;conocimiento de la cultura organizacional;1;3;2
+control y riesgos;karoll aguilar builes;relacional;cliente interno;1;3;2
+control y riesgos;karoll aguilar builes;relacional;cliente externo;1;3;2
+control y riesgos;karoll aguilar builes;experto;mercurio;1;3;2
+control y riesgos;david fermin botero echeverri;medular;diseno e implementacion de sistemas de control interno;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;evaluacion de riesgos operativos y financieros;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;desarrollo de matrices de riesgo institucional ;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;auditoria de procesos;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;estrategias de mitigacion y continuidad de negocio;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;capacitacion;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;desarrollo de indicadores de control;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;supervision y analisis de ejecucion presupuestal;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;diseno de sistemas de organizacion del recaudo;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;planeacion y control operativo de tesoreria;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;parametrizacion financiera de cuentas bancarias y administracion de pasarelas de pago;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;diseno de planes de monitoreo;4;3;-1
+control y riesgos;david fermin botero echeverri;medular;adaptacion del modelo camel del banco de la republica para monitoreo de entidades publicas;4;3;-1
+control y riesgos;david fermin botero echeverri;gerencial;gestion del riesgo de corrupcion;4;3;-1
+control y riesgos;david fermin botero echeverri;gerencial;gestion de talento humano;4;3;-1
+control y riesgos;david fermin botero echeverri;gerencial;gestion del cambio en procesos de rediseno organizacional;4;3;-1
+control y riesgos;david fermin botero echeverri;gerencial;gestion de conflictos y liderazgo basado en valores;4;3;-1
+control y riesgos;david fermin botero echeverri;gerencial;gestion de indicadores;4;3;-1
+control y riesgos;david fermin botero echeverri;gerencial;gestion presupuestal;4;3;-1
+control y riesgos;david fermin botero echeverri;gerencial;gestion de relaciones interinstitucionales;4;3;-1
+control y riesgos;david fermin botero echeverri;tic;excel;3;3;0
+control y riesgos;david fermin botero echeverri;tic;vba;3;3;0
+control y riesgos;david fermin botero echeverri;tic;power bi;3;3;0
+control y riesgos;david fermin botero echeverri;tic;python;3;3;0
+control y riesgos;david fermin botero echeverri;tic;sap;3;3;0
+control y riesgos;david fermin botero echeverri;tic;teams;3;3;0
+control y riesgos;david fermin botero echeverri;tic;onedrive;3;3;0
+control y riesgos;david fermin botero echeverri;tic;google drive;3;1;-2
+control y riesgos;david fermin botero echeverri;tic;herramientas ofimaticas;3;3;0
+control y riesgos;david fermin botero echeverri;organizacional;estructura organizacional;4;3;-1
+control y riesgos;david fermin botero echeverri;organizacional;modelo integrado de planeacion y gestion;4;3;-1
+control y riesgos;david fermin botero echeverri;organizacional;diseno de manuales de funciones, procesos y procedimientos;4;3;-1
+control y riesgos;david fermin botero echeverri;organizacional;diseno administrativo;4;3;-1
+control y riesgos;david fermin botero echeverri;relacional;normatividad interna del distrito;4;3;-1
+control y riesgos;david fermin botero echeverri;relacional;coordinacion entes de control;4;3;-1
+control y riesgos;david fermin botero echeverri;relacional;coordinacion organismos externos;4;3;-1
+control y riesgos;david fermin botero echeverri;relacional;relacionamiento con la banca;4;3;-1
+control y riesgos;david fermin botero echeverri;experto;epistemologia contable con enfoque etico-humanista;1;1;0
+control y riesgos;david fermin botero echeverri;experto;diseno e implementacion de auditoria estrategica aplicada a recursos publicos;1;3;2
+control y riesgos;david fermin botero echeverri;experto;integracion de modelos financieros a instituciones del estado;1;3;2
+control y riesgos;david fermin botero echeverri;experto;automatizacion de procesos de control;1;3;2
+control y riesgos;david fermin botero echeverri;experto;adaptacion de metodologias de medicion de riesgos en contextos publicos;1;3;2
+control y riesgos;david fermin botero echeverri;experto;diseno de estructuras de control institucional alineadas a modelos del dnp;1;3;2
+control y riesgos;david fermin botero echeverri;experto;creacion de contenido academico y publicaciones en contabilidad critica;1;1;0
+control y riesgos;david fermin botero echeverri;experto;liderazgo organizacional;1;3;2
+control y riesgos;david fermin botero echeverri;experto;formacion y acompanamiento de lideres publicos desde una mirada sistemica;1;1;0
+inversiones;oscar raul florez velez;medular;ciclo de la inversion publica;2;4;2
+inversiones;oscar raul florez velez;medular;elaboracion y seguimiento plan de desarrollo;2;3;1
+inversiones;oscar raul florez velez;medular;indicadores;2;4;2
+inversiones;oscar raul florez velez;medular;mapas de riesgo y seguimiento;2;4;2
+inversiones;oscar raul florez velez;medular;reciprocidad con las entidades financieras;2;4;2
+inversiones;oscar raul florez velez;medular;auditoria;2;3;1
+inversiones;oscar raul florez velez;gerencial;politicas y elaboracion planes de accion;3;3;0
+inversiones;oscar raul florez velez;gerencial;mipg;3;3;0
+inversiones;oscar raul florez velez;gerencial;administracion de recursos en proyectos;3;4;1
+inversiones;oscar raul florez velez;gerencial;seguimiento fisico y financiero de proyectos;3;3;0
+inversiones;oscar raul florez velez;tic;word;1;3;2
+inversiones;oscar raul florez velez;tic;excel;1;4;3
+inversiones;oscar raul florez velez;tic;teams;1;2;1
+inversiones;oscar raul florez velez;tic;google;1;2;1
+inversiones;oscar raul florez velez;tic;herramientas ofimaticas;1;4;3
+inversiones;oscar raul florez velez;organizacional;areas de cartera;4;3;-1
+inversiones;oscar raul florez velez;organizacional;proyectos;4;4;0
+inversiones;oscar raul florez velez;organizacional;planeacion;4;4;0
+inversiones;oscar raul florez velez;organizacional;sistemas de calidad;4;4;0
+inversiones;oscar raul florez velez;organizacional;mapas de procesos;4;4;0
+inversiones;oscar raul florez velez;organizacional;ley 80;4;3;-1
+inversiones;oscar raul florez velez;organizacional;procesos;4;4;0
+inversiones;oscar raul florez velez;organizacional;procedimientos;4;4;0
+inversiones;oscar raul florez velez;organizacional;funcion publica;4;4;0
+inversiones;oscar raul florez velez;organizacional;servicio al cliente;4;4;0
+inversiones;oscar raul florez velez;relacional;procesos internos;2;4;2
+inversiones;oscar raul florez velez;relacional;cliente interno;2;4;2
+inversiones;oscar raul florez velez;experto;relacionamiento;1;5;4
+inversiones;oscar raul florez velez;experto;manejo de conflictos;1;5;4
+inversiones;oscar raul florez velez;experto;portafolio financiero;1;4;3
+inversiones;oscar raul florez velez;experto;manejo de riesgos;1;4;3
+control y riesgos;daniel alejandro vasquez;medular;ingenieria industrial;3;2;-1
+control y riesgos;daniel alejandro vasquez;gerencial;gestion de procesos (mejoramiento continuo);2;3;1
+control y riesgos;daniel alejandro vasquez;gerencial;gestion de riesgos;2;3;1
+control y riesgos;daniel alejandro vasquez;gerencial;gestion de los datos y la informacion;3;3;0
+control y riesgos;daniel alejandro vasquez;tic;herramientas de office (excel, word, powerpoint, planner);4;3;-1
+control y riesgos;daniel alejandro vasquez;tic;power bi;4;3;-1
+control y riesgos;daniel alejandro vasquez;tic;r-studio;2;1;-1
+control y riesgos;daniel alejandro vasquez;tic;python;1;3;2
+control y riesgos;daniel alejandro vasquez;tic;sql;1;3;2
+control y riesgos;daniel alejandro vasquez;tic;sap;1;3;2
+control y riesgos;daniel alejandro vasquez;tic;vba excel;3;3;0
+control y riesgos;daniel alejandro vasquez;tic;inteligencias artificiales (chat gpt, gemini);1;3;2
+control y riesgos;daniel alejandro vasquez;organizacional;iso 27001;1;3;2
+control y riesgos;daniel alejandro vasquez;organizacional;iso 9000 - 9001;2;3;1
+control y riesgos;daniel alejandro vasquez;organizacional;iso 31000;2;3;1
+control y riesgos;daniel alejandro vasquez;organizacional;mipg - modelo integrado de planeacion y gestion;3;3;0
+control y riesgos;daniel alejandro vasquez;organizacional;documentacion de procesos;3;3;0
+control y riesgos;daniel alejandro vasquez;relacional;estatuto tributario;1;3;2
+control y riesgos;daniel alejandro vasquez;relacional;manual de cobranza;2;3;1
+control y riesgos;daniel alejandro vasquez;experto;gestion etl de datos (extract, transform and load);1;3;2
+control y riesgos;daniel alejandro vasquez;experto;desarrollo de tablero de informacion;1;3;2
+control y riesgos;daniel alejandro vasquez;experto;aplicacion de herramientas de mejoramiento continuo;1;3;2
+control y riesgos;javier mauricio duran vasquez;medular;seguridad de la informacion basada en iso 27001;5;3;-2
+control y riesgos;javier mauricio duran vasquez;medular;transformacion digital;5;3;-2
+control y riesgos;javier mauricio duran vasquez;medular;infraestructura cloud aws;5;3;-2
+control y riesgos;javier mauricio duran vasquez;medular;analisis financiero;4;3;-1
+control y riesgos;javier mauricio duran vasquez;medular;analisis de riesgos basado en iso 31000;5;3;-2
+control y riesgos;javier mauricio duran vasquez;medular;ciberseguridad;5;3;-2
+control y riesgos;javier mauricio duran vasquez;gerencial;gestion y seguimiento a proyectos basado en pmi;5;3;-2
+control y riesgos;javier mauricio duran vasquez;gerencial;administracion de negocios;5;1;-4
+control y riesgos;javier mauricio duran vasquez;gerencial;desarrollo de software a la medida;5;2;-3
+control y riesgos;javier mauricio duran vasquez;gerencial;aprendizaje virtual;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;microsoft excel;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;powerbi;3;3;0
+control y riesgos;javier mauricio duran vasquez;tic;amazon quicksight;3;3;0
+control y riesgos;javier mauricio duran vasquez;tic;python;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;javascript;3;1;-2
+control y riesgos;javier mauricio duran vasquez;tic;google drive;5;1;-4
+control y riesgos;javier mauricio duran vasquez;tic;one drive;5;3;-2
+control y riesgos;javier mauricio duran vasquez;tic;microsoft word;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;sistema operativo linux;5;2;-3
+control y riesgos;javier mauricio duran vasquez;tic;sistema operativo windows;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;adobe audition;4;1;-3
+control y riesgos;javier mauricio duran vasquez;tic;aws cloud;5;3;-2
+control y riesgos;javier mauricio duran vasquez;tic;hacking etico y pentesting;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;cobit 2019;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;togaf;3;3;0
+control y riesgos;javier mauricio duran vasquez;tic;gobierno digital;4;3;-1
+control y riesgos;javier mauricio duran vasquez;tic;mspi modelo de seguridad y privacidad;4;3;-1
+control y riesgos;javier mauricio duran vasquez;organizacional;gestion de procesos basada en iso 9001;4;3;-1
+control y riesgos;javier mauricio duran vasquez;organizacional;toma de decisiones;4;3;-1
+control y riesgos;javier mauricio duran vasquez;organizacional;gestion del tiempo;5;3;-2
+control y riesgos;javier mauricio duran vasquez;organizacional;liderazgo;5;3;-2
+control y riesgos;javier mauricio duran vasquez;organizacional;negociacion;5;3;-2
+control y riesgos;javier mauricio duran vasquez;organizacional;gestion de la innovacion;4;3;-1
+control y riesgos;javier mauricio duran vasquez;organizacional;automatizacion de workflows;4;3;-1
+control y riesgos;javier mauricio duran vasquez;organizacional;business process modeling notation bpmn;4;3;-1
+control y riesgos;javier mauricio duran vasquez;relacional;manual de gobierno digital;4;3;-1
+control y riesgos;javier mauricio duran vasquez;relacional;manual de gestion del riesgo dafp;4;3;-1
+inversiones;laura camila ossa vasquez;medular;formulacion de proyectos;3;4;1
+inversiones;laura camila ossa vasquez;medular;formulacion de politicas publicas;3;2;-1
+inversiones;laura camila ossa vasquez;gerencial;administracion publica;3;4;1
+inversiones;laura camila ossa vasquez;gerencial;analisis de politicas publicas;3;2;-1
+inversiones;laura camila ossa vasquez;gerencial;diseno, financiacion y planeacion de politicas;3;2;-1
+inversiones;laura camila ossa vasquez;gerencial;estudio de mercado y tecnicos para proyectos;3;4;1
+inversiones;laura camila ossa vasquez;gerencial;evaluacion financiera;3;4;1
+inversiones;laura camila ossa vasquez;gerencial;gerencia de proyectos;3;4;1
+inversiones;laura camila ossa vasquez;gerencial;construccion y analisis de indicadores;3;3;0
+inversiones;laura camila ossa vasquez;gerencial;presupuesto;3;4;1
+inversiones;laura camila ossa vasquez;gerencial;mga: metodologia general ajustada.;1;3;2
+inversiones;laura camila ossa vasquez;tic;sap;2;4;2
+inversiones;laura camila ossa vasquez;tic;word;2;3;1
+inversiones;laura camila ossa vasquez;tic;excel;2;4;2
+inversiones;laura camila ossa vasquez;tic;power point;2;3;1
+inversiones;laura camila ossa vasquez;tic;teams;2;2;0
+inversiones;laura camila ossa vasquez;tic;google drive;2;2;0
+inversiones;laura camila ossa vasquez;organizacional;temas de calidad ;2;4;2
+inversiones;laura camila ossa vasquez;organizacional;reportes a las ias.;2;4;2
+inversiones;laura camila ossa vasquez;organizacional;modelo de planeacion y gestion ;2;4;2
+inversiones;laura camila ossa vasquez;organizacional;supervicion de contratos ;2;4;2
+inversiones;laura camila ossa vasquez;organizacional;temas administrativos (evaluaciones de desempeno, realizacion de compromisos);2;3;1
+inversiones;laura camila ossa vasquez;organizacional;revision y verificacion de cobro de obligaciones urbanisticas.;2;2;0
+inversiones;laura camila ossa vasquez;relacional;decreto 883 de 2015;2;3;1
+inversiones;laura camila ossa vasquez;relacional;modelo integrado de planeacion y gestion;2;4;2
+control y riesgos;luz marina sierra naranjo;medular;contaduria;2;2;0
+control y riesgos;luz marina sierra naranjo;tic;word;2;2;0
+control y riesgos;luz marina sierra naranjo;tic;excel;2;2;0
+control y riesgos;luz marina sierra naranjo;tic;one drive;1;2;1
+control y riesgos;luz marina sierra naranjo;tic;teams;1;2;1
+control y riesgos;luz marina sierra naranjo;relacional;informacion exogena dian;1;2;1
+control y riesgos;luz marina sierra naranjo;relacional;reportes sistemas chip a la contaduria;1;2;1
